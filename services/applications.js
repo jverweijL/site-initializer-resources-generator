@@ -383,3 +383,4 @@ async function getSubCategories(parentCatId) {
    getCategories,
    getSubCategories
  }
+ 
